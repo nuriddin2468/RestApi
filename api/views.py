@@ -25,12 +25,12 @@ def api(request):
             },
             {
                 "Method": "DELETE",
-                "URL": "api/logos",
+                "URL": "api/logo/id",
                 "To-DO": "Delete logo"
             },
             {
                 "Method": "PUT",
-                "URL": "api/logos",
+                "URL": "api/logo/id",
                 "To-DO": "Update logo"
             },
             {
